@@ -32,15 +32,6 @@ The model reveals significant seasonal patterns:
 - statsmodels (SARIMAX)
 - matplotlib
 
-## 📦 Installation
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/forecasting-project.git
-cd forecasting-project
-
-# Install dependencies
-pip install -r requirements.txt
-```
 
 ## 🚀 Usage
 ```python
@@ -58,7 +49,6 @@ The model generates:
 ## 📁 Project Structure
 ```
 forecasting-project/
-├── data/              # Raw data files
 ├── notebooks/         # Jupyter notebooks
 ├── outputs/           # Generated forecasts and visualizations
 ├── README.md
@@ -66,13 +56,7 @@ forecasting-project/
 └── .gitignore
 ```
 
-## 🤔 Why This Project?
 
-Built this to scratch that forecasting itch from my days at Zepto. Sometimes you just miss solving prediction puzzles! 📊
-
-## 📝 License
-
-MIT License - feel free to use and modify!
 
 ## 🤝 Contributing
 
