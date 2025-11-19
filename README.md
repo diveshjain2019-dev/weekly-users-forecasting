@@ -36,7 +36,7 @@ The model reveals significant seasonal patterns:
 ## 🚀 Usage
 ```python
 # Run the Jupyter notebook
-jupyter notebook notebooks/old_mau_sarima.ipynb
+jupyter notebook notebooks/Forecasting_mau_sarima.ipynb
 ```
 
 ## 📈 Results
